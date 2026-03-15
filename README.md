@@ -4,7 +4,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1A56A0,100:0a0a0a&height=220&section=header&text=Muhammad%20Ahmad&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20R%26D%20Enthusiast&descSize=16&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/ahmad-rind">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=1A56A0&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=45&lines=%F0%9F%8E%93+Computer+Engineering+%40+UET+Taxila;%F0%9F%94%A7+Building+Scalable+Web+Applications;%F0%9F%94%AC+Flask+%7C+React+%7C+C%2B%2B+%7C+Digital+Systems;%F0%9F%9A%80+Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
