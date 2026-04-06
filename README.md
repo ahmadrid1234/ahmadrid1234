@@ -126,12 +126,6 @@ class Engineer:
 
 </div>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmad-rind&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ahmad-rind)
-
-</div>
-
 ---
 
 ## 🤝 `contact.connect()`
