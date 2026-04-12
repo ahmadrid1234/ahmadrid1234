@@ -130,8 +130,6 @@ class Engineer:
 
 ## 🤝 `contact.connect()`
 
-Open to internships, collaborations, and interesting engineering projects. Whether it's a web app, a university tool, or anything in between — let's build something real.
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ahmadrind20%40gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadrind20@gmail.com)
